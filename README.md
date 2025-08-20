@@ -1,1 +1,1 @@
-.Net konu tekrarı yaptığım proje ilerledikçe commitlerler bu readme dosyası değişecek
+.Net konu tekrarı yaptığım proje. Proje ilerledikçe commitlerlerle bu readme dosyası değişecek
