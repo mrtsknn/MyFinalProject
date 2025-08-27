@@ -7,9 +7,9 @@ using System.Linq.Expressions;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace DataAccess.Concrete.InMemory
+namespace DataAccess.Concrete.EntityFramework
 {
-    public class InMemoryCategoryDal : ICategoryDal
+    public class EfCategoryDal : ICategoryDal
     {
         public void Add(Category entity)
         {
